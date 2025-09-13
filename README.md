@@ -14,7 +14,7 @@ A standalone Windows application for analyzing nearby WiFi networks and generati
 
 ## Download
 
-**Latest Release**[Download WiFi_Scanner.exe (7MB)](https://github.com/NoorFarayeh/wifi-scanner/releases/latest/download/Noor.exe)**
+**Latest Release**[Download Noor.exe (7MB)](https://github.com/NoorFarayeh/wifi-scanner/releases/latest/download/Noor.exe)**
 **NoorFarayeh
 
 File size: ~ 7MB (includes Python runtime)
@@ -114,6 +114,7 @@ Built as a portfolio project showcasing real-world application development beyon
 
 
 MIT License - See LICENSE file for details
+
 
 
 
